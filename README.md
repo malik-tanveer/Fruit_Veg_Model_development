@@ -12,6 +12,8 @@ This project uses a Convolutional Neural Network (CNN) to learn visual features 
 * TensorFlow & Keras
 * Pillow (PIL)
 * Streamlit
+* Numpy
+* Jupyter Notebook
 
 ## Project Objectives
 
@@ -33,6 +35,6 @@ Fruit-Vegetable-Classifier/
 ```
 
 
-**Project:** Fruit & Vegetable Classification Model
-**Purpose:** Deep Learning Image Classification
-**Deployment Framework:** Streamlit
+- **Project:** Fruit & Vegetable Classification Model
+- **Purpose:** Deep Learning Image Classification
+- **Deployment Framework:** Streamlit
