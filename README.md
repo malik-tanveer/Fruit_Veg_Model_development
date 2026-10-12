@@ -38,3 +38,8 @@ Fruit-Vegetable-Classifier/
 - **Project:** Fruit & Vegetable Classification Model
 - **Purpose:** Deep Learning Image Classification
 - **Deployment Framework:** Streamlit
+
+
+## Live Demo
+
+Deployed application here: [Fruit & Vegetable Classification](https://fruit-veg.streamlit.app/)
